@@ -1,0 +1,47 @@
+{
+    "cantidades": {
+        "blue_deck_expansion_1": 10, 
+        "blue_deck_expansion_2": 10, 
+        "blue_deck_expansion_3": 10, 
+        "green_deck_expansion_1": 10, 
+        "green_deck_expansion_2": 10, 
+        "green_deck_expansion_3": 10, 
+        "purple_deck_expansion_1": 10, 
+        "purple_deck_expansion_2": 10, 
+        "red_deck_expansion_1": 10, 
+        "red_deck_expansion_2": 10, 
+        "red_deck_expansion_3": 10
+    },
+    "coordenadas": {
+        
+        "mazo_jugador": {
+            "x": 400,
+            "y": 440
+        },
+        "jugada_jugador": {
+            "x": 650,
+            "y": 440
+        },
+        "mazo_enemy": {
+            "x": 400,
+            "y": 120
+        },
+        "jugada_enemy": {
+            "x": 650,
+            "y": 120
+        }
+    },
+    "rutas_mazos": {
+        "blue_deck_expansion_1": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/blue_deck_expansion_1", 
+        "blue_deck_expansion_2": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/blue_deck_expansion_2", 
+        "blue_deck_expansion_3": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/blue_deck_expansion_3", 
+        "green_deck_expansion_1": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/green_deck_expansion_1", 
+        "green_deck_expansion_2": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/green_deck_expansion_2", 
+        "green_deck_expansion_3": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/green_deck_expansion_3", 
+        "purple_deck_expansion_1": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/purple_deck_expansion_1", 
+        "purple_deck_expansion_2": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/purple_deck_expansion_2", 
+        "red_deck_expansion_1": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/red_deck_expansion_1", 
+        "red_deck_expansion_2": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/red_deck_expansion_2", 
+        "red_deck_expansion_3": "./assets_Dragon_Ball_Trading_Card_Game/img/decks/red_deck_expansion_3"
+    }
+}
